@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: docker push eunsongpark/docker-react-app:tagname
+          tags: eunsongpark/docker-react-app:latest
