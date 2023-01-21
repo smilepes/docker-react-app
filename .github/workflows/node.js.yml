@@ -48,4 +48,4 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: eunsongpark/docker-react-app
+        tags: docker push eunsongpark/docker-react-app
