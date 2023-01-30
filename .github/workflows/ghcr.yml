@@ -8,7 +8,7 @@ on:
 
 # 환경설정
 env:
-  DOCKER_IMAGE: ghcr.io/eunsongpark/docker-fullstack-app
+  DOCKER_IMAGE: ghcr.io/eunsongpark/docker-react-app
   VERSION: ${{ github.sha }}
   NAME: go_cicd
 
